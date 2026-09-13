@@ -1,16 +1,36 @@
-## Hi there 👋
+                         MR_HYDE
+              Software Engineering Student
 
-<!--
-**Mr-Hyde-426/Mr-Hyde-426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       C++  •  Java  •  Full Stack Development
 
-Here are some ideas to get you started:
+        Simulation • Cybersecurity • Aerospace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                         PROJECTS
+
+       🛰️ LK_7392_Mercury
+       Earth Observation Analytics Engine
+
+       🧬 LK_4282_Bio_InGen
+       Clinical Informatics & Traceability
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    ENGINEERING FOCUS
+
+       Systems Engineering
+       Scientific Software
+       Simulation
+       Cybersecurity
+       Aerospace Systems
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                     CURRENTLY BUILDING
+
+                    [ project status ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                         ORCID
